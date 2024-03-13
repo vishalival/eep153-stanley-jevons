@@ -1,1 +1,2 @@
-# eep153-stanley-jevons
+# EEP 153: Project 3
+## Team Stanley Jevons
