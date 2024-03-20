@@ -7,4 +7,3 @@
 - <span style="color:purple">Ben Qiu</span>, [JIBINQIU](https://github.com/JIBINQIU), ben003@berkeley.edu
 - <span style="color:purple">Vishali Vallioor</span>, [vishalival](https://github.com/vishalival), vishalivallioor@berkeley.edu
 - <span style="color:purple">Shannon Ling</span>, [shannonling](https://github.com/shannonling), shannoncarlson@berkeley.edu
-- <span style="color:purple">Khadija Arslan</span>, [KHADIJAARSLAN](https://github.com/KHADIJAARSLAN), khadija2002@berkeley.edu
