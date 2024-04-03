@@ -5,8 +5,8 @@ import cfe
 from cfe import Regression
 
 def output_as_pickle(expenditure_data, household_data, path):
-    x = pd.read_csv("data/ghana/Expenditures.csv")
-    d = pd.read_csv("data/ghana/Household_Characteristics.csv")
+    x = pd.read_csv(expenditure_data)
+    d = pd.read_csv(household_data)
     x.columns.name = 'j'
     d.columns.name = 'k'
     x = x.groupby('j',axis=1).sum()
