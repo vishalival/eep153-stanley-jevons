@@ -9,4 +9,4 @@
 - <span style="color:purple">Vishali Vallioor</span>, [vishalival](https://github.com/vishalival), vishalivallioor@berkeley.edu
 - <span style="color:purple">Shannon Ling</span>, [shannonling](https://github.com/shannonling), shannoncarlson@berkeley.edu
 
-# Note: Please run and check out all our deliverables at this [link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/vishalival/eep153-stanley-jevons&urlpath=tree/eep153-stanley-jevons/deliverables_code_final_3.ipynb t)! Thank you!!
+# Note: Please run and check out all our deliverables at this [link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/vishalival/eep153-stanley-jevons&urlpath=tree/eep153-stanley-jevons/deliverables_code_final_3.ipynb)! Thank you!!
